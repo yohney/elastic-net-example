@@ -1,0 +1,14 @@
+src/Elastic.Example/.vs/
+src/Elastic.Example/Elastic.Example.Data/bin/
+src/Elastic.Example/Elastic.Example.Data/obj/
+src/Elastic.Example/Elastic.Example.Indexing.Console/bin/
+src/Elastic.Example/Elastic.Example.Indexing.Console/obj/
+src/Elastic.Example/Elastic.Example.Search.Console/bin/
+src/Elastic.Example/Elastic.Example.Search.Console/obj/
+src/Elastic.Example/Elastic.Example.Services/bin/
+src/Elastic.Example/Elastic.Example.Services/obj/
+src/Elastic.Example/Elastic.Example.Tests/bin/
+src/Elastic.Example/Elastic.Example.Tests/obj/
+src/Elastic.Example/Elastic.Example.TMDB.Console/bin/
+src/Elastic.Example/Elastic.Example.TMDB.Console/obj/
+src/Elastic.Example/packages/
